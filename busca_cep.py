@@ -16,5 +16,7 @@ if len(cep) == 8:
   bairro = dic_requisicao['bairro']
   
   print(dic_requisicao)
+  
 else:
   print('CEP Inválido')
+  
